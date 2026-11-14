@@ -5,7 +5,7 @@
 
 RISE is a proprietary Windows 10/11 desktop utility built with .NET 8 and WPF. It brings system information, reversible user-level settings, game discovery and launching, process-priority profiles, and Windows-native network and maintenance tools together in one app.
 
-**Website:** [risetweaks.netlify.app](https://risetweaks.netlify.app/) · **Community:** [Discord](https://discord.gg/ynW9VufKY)
+**Download:** [RISE 0.6.0 Windows preview](https://github.com/risetweaks/rise/releases/tag/v0.6.0) · **Website:** [risetweaks.netlify.app](https://risetweaks.netlify.app/) · **Community:** [Discord](https://discord.gg/ynW9VufKY)
 
 ## Features
 

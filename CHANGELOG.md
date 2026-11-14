@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0
+
+- Publish the current RISE preview as version 0.6.0; no new application features are claimed in this release.
+
 ## 0.4.0
 
 - Replace the app's lettermark with an orange and black angular peak mark based on the provided logo.
